@@ -1,4 +1,4 @@
-### 微博汇总
+### 微博汇总 [issues](https://github.com/barretlee/weibo/issues)
 
 新浪微博地址：[@Barret李靖](http://weibo.com/173248656)
 
